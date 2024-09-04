@@ -43,7 +43,7 @@ Gathers relevant user data from the Codechef website.
 ![Alt text](<Screenshot (331).png>)
 
 ## Installation
-> git  clone re4lvanshsingh/Codeforces_Codechef_Converter
+> git  clone awakemanish/Codeforces_Codechef_Converter
 > cd Codeforces_Codechef_Converter
 
 ## Usage
